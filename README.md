@@ -8,7 +8,8 @@ A lightweight Browser Extension that automatically skips YouTube age-restriction
 
 ## Disclaimer
 
-This tool assumes your Google account is properly age-verified through official means. yt-rco **does not** bypass YouTube's age restrictions—it only works on **verified accounts**. We do not condone or accept liability for subverting age verification (e.g., by providing false information during account setup). Use responsibly and in compliance with YouTube's terms of service.
+This extension only functions for users whose YouTube accounts are **already age-verified**.
+It **does not** bypass YouTube’s age-restriction system and simply automates an existing user action.
 
 ## Installation
 
@@ -47,7 +48,7 @@ The page will reload with the parameter added, automatically bypassing the age-r
 
 ## Permissions
 
-- `storage` — used to store the extension's enabled/disabled state. No other data is accessed or transmitted.
+- This extension does not request or require any special browser permissions.
 
 ## Version
 
@@ -59,6 +60,7 @@ Current version: **1.3**
 
 ## License
 This project is open source under the MIT License. See [LICENSE](LICENSE) for details.
+
 
 
 
