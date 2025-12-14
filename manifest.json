@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "yt-rco",
-  "description": "Automatically skips YouTube age-restriction overlays with &rco=1 for verified users",
+  "description": "Automatically skips YouTube age-restriction overlays with &rco=1",
   "version": "1.3",
   "author": "Kryptamyr",
   "icons": {
@@ -11,7 +11,7 @@
   },
   "action": {
     "default_icon": "icon48.png",
-    "default_title": "yt-rco: Auto-skip age-restriction overlays"
+    "default_title": "yt-rco: Auto-skip age-restriction overlay"
   },
   "content_scripts": [
     {
@@ -22,3 +22,4 @@
   ],
   "permissions": ["storage"]
 }
+
