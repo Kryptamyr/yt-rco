@@ -16,7 +16,7 @@ A lightweight Browser Extension that automatically skips YouTube age-restriction
 4. Click **Load unpacked**.
 5. Select the `yt-rco` folder containing the 'manifest.json' and icon files.
 
-### From Chrome Web Store (or other extension stores) ((FUTURE))
+### From Chrome Web Store (Future)
 
 - When published, you can install directly from the Chrome Web Store by searching for **yt-rco**.
 
@@ -55,3 +55,4 @@ Current version: **1.3**
 
 ## License
 This project is open source under the MIT License. See [LICENSE](LICENSE) for details.
+
