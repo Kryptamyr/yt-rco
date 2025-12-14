@@ -4,6 +4,7 @@
   "description": "Automatically skips YouTube age-restriction overlays with &rco=1",
   "version": "1.3",
   "author": "Kryptamyr",
+  "homepage_url": "https://github.com/Kryptamyr/yt-rco",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
@@ -22,4 +23,5 @@
   ],
   "permissions": ["storage"]
 }
+
 
