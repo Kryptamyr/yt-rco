@@ -17,12 +17,12 @@ Desktop.ini
 *.crx
 *.pem
 
-# Node/npm (if you ever use Node for dev scripts)
+# Node / npm (for dev scripts)
 node_modules/
 npm-debug.log*
 yarn-error.log*
 
-# Optional: swap/backup files
+# Swap / backup files
 *.swp
 *.swo
 *~
