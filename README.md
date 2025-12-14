@@ -4,7 +4,7 @@ A lightweight Browser Extension that automatically skips YouTube age-restriction
 
 ## Description
 
-**yt-rco** automatically adds the `&rco=1` parameter to YouTube video URLs, skipping the manual "I understand and continue" prompt for age-restricted content. This extension only works for users who have already verified their age with YouTube.
+**yt-rco** automatically adds the `&rco=1` parameter to YouTube video URLs, skipping the manual "I understand and wish to proceed" prompt for age-restricted content.
 
 ## Disclaimer
 
@@ -60,6 +60,7 @@ Current version: **1.3**
 
 ## License
 This project is open source under the MIT License. See [LICENSE](LICENSE) for details.
+
 
 
 
