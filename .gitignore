@@ -1,0 +1,28 @@
+# OS / system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build / package artifacts
+*.zip
+*.crx
+*.pem
+
+# Node/npm (if you ever use Node for dev scripts)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Optional: swap/backup files
+*.swp
+*.swo
+*~
