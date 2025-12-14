@@ -1,10 +1,9 @@
 {
   "manifest_version": 3,
   "name": "yt-rco",
-  "description": "Automatically skips YouTube age-restriction overlays with &rco=1",
+  "description": "Automatically skips YouTube age-restriction overlays with &rco=1 for verified users",
   "version": "1.3",
   "author": "Kryptamyr",
-  "homepage_url": "https://github.com/Kryptamyr/yt-rco",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
@@ -12,16 +11,14 @@
   },
   "action": {
     "default_icon": "icon48.png",
-    "default_title": "yt-rco: Auto-skip age-restriction overlay"
+    "default_title": "yt-rco: Auto-skip age-restriction overlays"
   },
+  "permissions": [],
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],
       "js": ["content.js"],
       "run_at": "document_start"
     }
-  ],
-  "permissions": ["storage"]
+  ]
 }
-
-
