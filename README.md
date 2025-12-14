@@ -1,4 +1,4 @@
-# yt-rco
+# yt-rco (restricted content override)
 
 A lightweight Browser Extension that automatically skips YouTube age-restriction overlays by appending `&rco=1` to video URLs.
 
@@ -55,4 +55,5 @@ Current version: **1.3**
 
 ## License
 This project is open source under the MIT License. See [LICENSE](LICENSE) for details.
+
 
